@@ -15,7 +15,7 @@ I built a simple **TicTacToe board game** step by step, keeping the code short a
 - Later, I will refactor into multiple methods for clarity and reuse.
 
 ## 🌱 Learning Scroll
-This project is part of my radiant backend journey:
+This project is part of my  backend journey:
 - Step 1: Board creation  
 - Step 2: Hardcoded moves  
 - Step 3: Interactive input (this version)  
